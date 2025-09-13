@@ -1,6 +1,6 @@
 # Bee Coin (HNY) - A Python Blockchain
 
-![Bee Coin Logo](assets\bee-coin-banner.png)
+![Bee Coin](assets/bee-coin-banner.png)
 
 **The Currency of the Hive.**
 
